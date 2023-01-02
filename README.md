@@ -1,2 +1,2 @@
-# multi-select-checkbox
+# Multi-Select-Checkbox
 Created with CodeSandbox
