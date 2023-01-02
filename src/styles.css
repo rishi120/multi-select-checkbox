@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  border-bottom: 1px solid #dedede;
+  padding-bottom: 8px;
+  letter-spacing: 1px;
+}
+
+.App {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* checkbox styles */
+.checkbox-wrapper {
+  padding: 10px;
+  width: 25%;
+  border: 1px solid #dedede;
+  border-radius: 20px;
+  position: relative;
+}
+
+.checkbox-wrapper p {
+  position: absolute;
+  right: 10px;
+  top: 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: blue;
+}
+
+.form-group {
+  padding: 0 0 20px 15px;
+}
+
+.css-ahj2mt-MuiTypography-root {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.checkbox-wrapper button {
+  margin-bottom: 15px;
+}
